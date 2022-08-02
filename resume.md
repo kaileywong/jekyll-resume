@@ -41,10 +41,9 @@ Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Window
 - Presented project work to a public audience at student poster symposium
 
 ### **Tech & Design Committees** TritonHacks, UCSD <span>October 2021&ndash;Present</span>
+
 - Collaboratively develop and deploy hackathon website on GitHub using React
 - Collaboratively design all event assets and wireframes using Figma
-
-- Maintain website content and design to align with organization direction using HTML and CSS
 
 ### **Webmaster** Symphonic Student Association, UCSD <span>October 2021&ndash;Present</span>
 

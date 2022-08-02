@@ -39,7 +39,7 @@ Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Window
 - Designed & implemented new features for users to manage roles, create & delete workspaces using dynamic HTML with Jinja, CSS & Bootstrap styling, JavaScript, and Flask to connect to the API layer & Python backend
 - Improved styling for documentation hosted on MkDocs static site generator through theme customization
 - Presented project work to a public audience at student poster symposium
-- 
+
 ### **Tech & Design Committees** TritonHacks, UCSD <span>October 2021&ndash;Present</span>
 - Collaboratively develop and deploy hackathon website on GitHub using React
 - Collaboratively design all event assets and wireframes using Figma
